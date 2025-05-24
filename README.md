@@ -1,16 +1,13 @@
-## Hi there 👋
+[![Achievements](https://github-profile-trophy.vercel.app/?username=brusherru&theme=darkhub&margin-w=10&margin-h=10&rank=-B,-C)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
-**brusherru/brusherru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=brusherru&show_icons=true&locale=en&theme=dark&show=prs_merged_percentage&include_all_commits=true" alt="Github Stats" />
 
-Here are some ideas to get you started:
+###### Highlights
+**10+ years of dev experience**<br />
+7+ in Open-Source<br />
+UX designer background<br />
+Led small front-end teams
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Languages
+**TypeScript, React, Node.js**, Electron.js, **Tauri, Rust, WASM**,<br />
+C++11, MySQL, **Jest**, **Functional Programming** and many more
