@@ -9,5 +9,5 @@ UX designer background<br />
 Led small front-end teams
 
 ###### Languages
-**TypeScript, React, Node.js**, Electron.js, **Tauri, Rust, WASM**,<br />
-C++11, MySQL, **Jest**, **Functional Programming** and many more
+**TypeScript, React, Node.js, Electron.js**, Tauri, **Rust**, WASM,
+C++11, SQL, Git, **CI/CD**, **Jest**, **FP** and many more
