@@ -3,8 +3,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=brusherru&show_icons=true&locale=en&theme=dark&show=prs_merged_percentage&include_all_commits=true" alt="Github Stats" />
 
 ###### Highlights
-**10+ years of dev experience**<br />
-7+ in Open-Source<br />
+**12+ years of dev experience**<br />
+8+ in Open-Source<br />
 UX designer background<br />
 Led small front-end teams
 
